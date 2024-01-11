@@ -1,4 +1,4 @@
-# Website bán điện thoại ASP.NET MVC
+# Website bán điện thoại  sử dụng ASP.NET MVC
 Hướng dẫn kết nối csdl:
 
 -Xóa file MyData.dbml ở Models
